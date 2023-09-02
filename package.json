@@ -22,6 +22,8 @@
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
+    "predeploy" : "npm run build",
+    "deploy" : "gh-pages -d build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
@@ -46,6 +48,7 @@
   "devDependencies": {
     "@babel/eslint-parser": "^7.22.11",
     "@babel/plugin-proposal-private-property-in-object": "^7.21.11",
-    "@faker-js/faker": "^8.0.2"
+    "@faker-js/faker": "^8.0.2",
+    "gh-pages": "^6.0.0"
   }
 }
