@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/static/css/main.45023c8e.css",
-    "main.js": "/static/js/main.2d1058ca.js",
-    "static/media/photo.svg": "/static/media/photo.fab3fa3a945b02ff8ab15f13b8f922c1.svg",
-    "static/media/plus.svg": "/static/media/plus.d8c906ab65888c65aa673fc88c41272c.svg",
-    "index.html": "/index.html",
-    "static/media/tag_triangle.svg": "/static/media/tag_triangle.605ef1a8cb63ceda81da.svg",
-    "main.45023c8e.css.map": "/static/css/main.45023c8e.css.map",
-    "main.2d1058ca.js.map": "/static/js/main.2d1058ca.js.map"
+    "main.css": "/Amwork-test-todo/static/css/main.c7243618.css",
+    "main.js": "/Amwork-test-todo/static/js/main.221a30a7.js",
+    "static/media/photo.svg": "/Amwork-test-todo/static/media/photo.344dd5afa0e3a7285f469caeee364bfa.svg",
+    "static/media/plus.svg": "/Amwork-test-todo/static/media/plus.7656cbb2289baa6d534f95a61ec563c8.svg",
+    "index.html": "/Amwork-test-todo/index.html",
+    "static/media/tag_triangle.svg": "/Amwork-test-todo/static/media/tag_triangle.560ec4f46f5d43c81a1a.svg",
+    "main.c7243618.css.map": "/Amwork-test-todo/static/css/main.c7243618.css.map",
+    "main.221a30a7.js.map": "/Amwork-test-todo/static/js/main.221a30a7.js.map"
   },
   "entrypoints": [
-    "static/css/main.45023c8e.css",
-    "static/js/main.2d1058ca.js"
+    "static/css/main.c7243618.css",
+    "static/js/main.221a30a7.js"
   ]
 }
