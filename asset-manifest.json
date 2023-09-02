@@ -1,16 +1,17 @@
 {
   "files": {
     "main.css": "/Amwork-test-todo/static/css/main.c7243618.css",
-    "main.js": "/Amwork-test-todo/static/js/main.221a30a7.js",
+    "main.js": "/Amwork-test-todo/static/js/main.e44ac80d.js",
     "static/media/photo.svg": "/Amwork-test-todo/static/media/photo.344dd5afa0e3a7285f469caeee364bfa.svg",
+    "static/media/logo.svg": "/Amwork-test-todo/static/media/logo.2b9b730e97230323552db33ffb03bad8.svg",
     "static/media/plus.svg": "/Amwork-test-todo/static/media/plus.7656cbb2289baa6d534f95a61ec563c8.svg",
     "index.html": "/Amwork-test-todo/index.html",
     "static/media/tag_triangle.svg": "/Amwork-test-todo/static/media/tag_triangle.560ec4f46f5d43c81a1a.svg",
     "main.c7243618.css.map": "/Amwork-test-todo/static/css/main.c7243618.css.map",
-    "main.221a30a7.js.map": "/Amwork-test-todo/static/js/main.221a30a7.js.map"
+    "main.e44ac80d.js.map": "/Amwork-test-todo/static/js/main.e44ac80d.js.map"
   },
   "entrypoints": [
     "static/css/main.c7243618.css",
-    "static/js/main.221a30a7.js"
+    "static/js/main.e44ac80d.js"
   ]
 }
